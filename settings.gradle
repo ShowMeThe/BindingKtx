@@ -1,0 +1,3 @@
+include ':binding-ktx'
+include ':app'
+rootProject.name = "BindingKtx"
